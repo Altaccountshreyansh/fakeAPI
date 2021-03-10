@@ -2,12 +2,14 @@
     "articles":
         [
     {
+        "id": "1",
         "title": "temporary truth",
         "author": "Shreyansh Sinha",
         "subject": "Wisdom",
         "content": "Now let’s create a new JSON file with name db.json. This file contains the data which should be exposed by the REST API. For objects contained in the JSON structure CRUD entpoints are created automatically. Take a look at the following sample db.json file"
     },
     {
+        "id": "2",
         "title": "sad reality",
         "author": "Akash raghuwanshi",
         "subject": "Dark Truth",
